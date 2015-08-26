@@ -1,3 +1,5 @@
+/app/build
+/build
 # built application files
 *.apk
 *.ap_
