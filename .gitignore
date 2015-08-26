@@ -1,5 +1,7 @@
+# android studio project
 /app/build
 /build
+.gradle/
 # built application files
 *.apk
 *.ap_
